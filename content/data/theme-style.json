@@ -1,7 +1,7 @@
 {
     "type": "ThemeStyle",
     "h1": {
-        "style": "normal",
+        "style": "bold",
         "size": 60,
         "lineHeight": 60,
         "decoration": "none"
